@@ -35,6 +35,10 @@ deno run --allow-read readFile.ts
 
 https://deno.land/std/http
 
+dirección del curso 
+https://www.udemy.com/course/rhxjskxo/
+
+
 deno run --allow-net simpleServer.ts
 
 deno run --allow-net server.ts
