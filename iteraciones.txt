@@ -42,3 +42,10 @@ https://www.udemy.com/course/rhxjskxo/
 deno run --allow-net simpleServer.ts
 
 deno run --allow-net server.ts
+
+------
+conectar deno con mysql
+------------------------
+https://deno.land/x/sql
+
+pendiente conectarlo con sql server
